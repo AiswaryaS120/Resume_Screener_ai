@@ -74,7 +74,8 @@ Drive Link:https://drive.google.com/drive/folders/1NdXUmXc2RPDH82pD-F2-0anHPwTDq
 - sample_resumes/ — example resumes  
 - job_description.txt — sample job description  
 - resume_screening_results.csv — output scores  
-- screenshots/ — images for README  
+- screenshots/ — images for README
+- Drive Link for files used: https://drive.google.com/drive/folders/1DXGT51GpwIAIwNFipMTUTTzb9PSC4JBn?usp=drive_link
 
 ---
 
