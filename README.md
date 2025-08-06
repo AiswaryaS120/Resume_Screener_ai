@@ -7,7 +7,7 @@ Team Name: AutoBrain
 Team Members:  
 - Aiswarya S  
 - Girik Sagar
-- Sahala K
+- Fathima Sahala K
 - Fahad M K
 - Adhithyan P S
 - Sreeharini J
