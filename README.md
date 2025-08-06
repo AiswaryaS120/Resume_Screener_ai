@@ -87,6 +87,12 @@ Drive Link:https://drive.google.com/drive/folders/1NdXUmXc2RPDH82pD-F2-0anHPwTDq
 
 ---
 
+## Open in Colab
+
+Colab link:https://colab.research.google.com/drive/1qteZeAQc1Eo-VPQfeDCgJaLJAXddjRzs#scrollTo=h8dr6f649dN0
+
+---
+
 ## License
 
 This project is licensed under the MIT License. 
